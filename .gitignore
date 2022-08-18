@@ -1,0 +1,12 @@
+.git
+.DS_Store
+.idea/
+.installedExtras
+2015/wp-config.php
+.htaccess
+2015/.htaccess
+2015/wp-content/uploads
+2015/wp-content/upgrade
+.well-known
+2015/wp-content/wphb-cache
+2015/wp-content/wphb-logs
